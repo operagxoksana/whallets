@@ -75,16 +75,16 @@ Different whales have wallets on different chains, and to be able to pull form t
 | **Syntax** | **Chain**            | **Explorer**                      |
 |------------|----------------------| --------------------------------- |
 | 'btc'      | Bitcoin              |                                   |
-| 'erc'      | Erc 20 (Etherum)     | [Etherscan](https://etherscan.io) |
+| 'erc'      | Erc 20 (Ethereum)    | [Etherscan](https://etherscan.io) |
 | 'ens'      | Etherum Name service |                                   |
 | 'bsc'      | Binance Smart Chain  |                                   |
-| 'spl'      | Solana               |   [Solscan](https://solscan.io)    |
-| 'poly'     | Polygon (Matic)      |                                   |
-| 'heco'     | Huobi                |                                   |
+| 'sol'      | Solana               |   [Solscan](https://solscan.io)   |
+| 'pol'      | Polygon (Matic)      |                                   |
+| 'htx'      | Huobi                |                                   |
 | 'ftm'      | Fantom               |                                   |
 | 'avax'     | Avalanche            |                                   |
 | 'arb'      | Arbitrum             |                                   |
-| 'optm'     | Optimism             |                                   |
+| 'op'       | Optimism             |                                   |
 | 'gns'      | Gnosis               |                                   |
 | 'aur'      | Aurora               |                                   |
 | 'one'      | Harmony              |                                   |
